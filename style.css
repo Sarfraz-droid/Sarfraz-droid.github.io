@@ -297,8 +297,17 @@ ul,li{
   .box1{
       width: 80%;
   }
+  span p{
+      position: relative;
+      left: 15%;
+      margin-left: 0%;
+  }
+  span img{
+      position: relative;
+      right: 2%;
+  }
   span{
-      margin-left: 12%;
+      margin-left: 5%;
       margin-right: 5%;
   }
 }
